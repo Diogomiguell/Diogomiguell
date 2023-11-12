@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diogomiguell
-- 👀 I’m interested in Progamation and Design
+- 👀 I’m interested in Progamation, Design and Computer Network
 - 🌱 I’m currently learning PHP, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
