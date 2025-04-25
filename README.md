@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Diogomiguell
-- 👀 I’m interested in Progamation, Design and Computer Network
-- 💻 Program with PHP and JavaScript
-- 🌐 I create websites with HTML5, CSS3 and Boostrap5
-- 🌱 I’m currently learning database, PHP intermediary, JavaScript intermediary and C++
+- 👋 Hi, I’m Diogo Miguel Feijão dos Santos
+- 👀 I’m interested in Web Development
+- 💻 Program with Frameworks PHP and JavaScript
+- 🌐 I create websites with Laravel and React
+- 🌱 I’m currently learning Laravel, React.js and Vue.js
 
 <!---
 Diogomiguell/Diogomiguell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
